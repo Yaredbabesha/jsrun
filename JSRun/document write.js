@@ -1,0 +1,1 @@
+<html> <head> <title>Write example</title> <script> function newContent() { document.open(); document.write("<h1>Out with the old, in with the new!</h1>"); document.close(); } </script> </head> <body onload="newContent();"> <p>Some original document content.</p> </body> </html>
